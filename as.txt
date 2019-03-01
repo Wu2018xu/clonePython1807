@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
 =======
 hello 
@@ -6,3 +7,6 @@ hello
 
 
 ertfyughijkm
+=======
+hello 
+>>>>>>> user1
